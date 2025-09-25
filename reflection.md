@@ -1,0 +1,5 @@
+Setting up my Django environment was both challenging and a good learning experience. At first, I had trouble making sure the correct Python version was installed and used. Sometimes my computer did not recognize the python command. I fixed this by checking the PATH settings and trying python3 instead. Creating and activating the virtual environment was another step that took some effort, especially since the activation command is different on Windows compared to other systems.
+
+After that, installing Django worked fine, but I faced some problems when running the server at http://127.0.0.1:8000/. The errors were usually about missing templates or project settings. I solved this by carefully checking the settings.py file, organizing the templates in the right folders, and making sure the URLs and views were connected properly.
+
+Finally, I connected the project to GitHub, which gave me practice with Git commands. I had to double-check the remote URL and login details. Overall, I learned to solve issues step by step, read error messages closely, and stay patient during setup.

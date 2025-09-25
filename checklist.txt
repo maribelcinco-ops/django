@@ -1,0 +1,8 @@
+Environment Setup Checklist
+---------------------------
+
+[✔] Python version checked (3.x installed and verified with `python --version`)
+[✔] Virtual environment (venv) created and activated
+[✔] Django version confirmed (`django-admin --version`)
+[✔] Development server running successfully at http://127.0.0.1:8000/ (`python manage.py runserver`)
+[✔] Git remote repository set and verified (`git remote -v`)
